@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kelsey Hansel
 
-<!--
-**Kelsey-Hansel/Kelsey-Hansel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub!
 
-Here are some ideas to get you started:
+I'm Kelsey, a student at BYU Pathway Worldwide interested in Software Development and Game Design. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning about software testing.
+- My goals are to graduate, work in the software development field, and progress in my passion projects.
+- Ask me about my creative projects, software I would like to see, and my other interests.
+
+## Technologies and Tools
+
+- Proficient in: HTML, CSS, JavaScript, Python, C#, Tailwind CSS, Node, SQL, PostgreSQL
+- Skills: Problem-solving, Debugging, Critical Thinking, Teamwork
+
+## Let's Connect!
+
+- Here is my [LinkedIn](www.linkedin.com/in/kelsey-l-hansel) profile
+
+Feel free to explore my repositories and reach out anytime!
